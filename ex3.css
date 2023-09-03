@@ -1,0 +1,31 @@
+.parte1 {
+    background-color: #47ff9a;
+    width: 500px;
+    height: 500px;
+}
+
+.parte2 {
+    background-color: greenyellow;
+    height: 50%;
+    width: 50%;
+}
+
+.parte3 {
+    color: white;
+    background-color: rgb(60, 255, 0);
+    font-size: 30px;
+    font-family: monospace;
+    font-weight: 500;
+}
+
+.parte4 {
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(10, 239, 121);
+}
+
+.parte5 {
+    width: 75vw;
+    height: 50%;
+    background-color: rgb(197, 249, 41);
+}
